@@ -1,11 +1,16 @@
-### Hi there 👋
+## Hi 👋 I'm Raudel Alejandro Gómez Molina I live in Camaguey, <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="25" />
+
+- 🔭 I’m studying Computer Science at <a href="https://github.com/matcom">@matcom</a> (Havana University)
+- 🌱 I’m currently learning mathematics and programation topics (C#, Python, C++, Competitive Programing)
+- 👀 I'm interested on AI, programation algorithms, blockchain development and mathematics
+- 📫 How to reach me raudel.gmolina@gamil.com
 
 <!--
 **raudel25/raudel25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m studying Computer Science at <a href="https://github.com/matcom"> (Havana University)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
