@@ -2,7 +2,7 @@
 
 - 🔭 I’m studying Computer Science at <a href="https://github.com/matcom">@matcom</a> (Havana University)
 - 🌱 I’m currently learning mathematics and programation topics (C#, Python, C++, Competitive Programing)
-- 👀 I'm interested on AI, programation algorithms, blockchain development and mathematics
+- 👀 I'm interested in AI, programation algorithms, blockchain development and mathematics
 - 📫 How to reach me raudel.gmolina@gamil.com
 
 <!--
