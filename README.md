@@ -3,7 +3,7 @@
 - 🔭 I’m studying Computer Science at <a href="https://github.com/matcom">@matcom</a> (Havana University)
 - 🌱 I’m currently learning mathematics and programation topics (C#, Python, C++, Competitive Programing)
 - 👀 I'm interested in AI, programation algorithms, blockchain development and mathematics
-- 📫 How to reach me raudel.gmolina@gamil.com
+- 📫 How to reach me raudel.gmolina@gmail.com
 
 <!--
 **raudel25/raudel25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
