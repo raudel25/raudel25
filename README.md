@@ -2,9 +2,9 @@
 <h2>I live in Camaguey, <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="25" /></h2>
 <h3>A Computer Science student at @matcom (Havana University)</h3>
 
-- 🌱 I’m currently learning **mathematics and programation topics (C++, Competitive Programing, Software Engineering)**
+- 🌱 I’m currently learning **mathematics and programming topics (C++, Competitive Programming, Software Engineering)**
 
-- 👀 I'm interested in **AI, programation algorithms, blockchain development and mathematics**
+- 👀 I'm interested in **AI, programming algorithms, blockchain development and mathematics**
 
 - 📫 How to reach me **raudel.gmolina@gmail.com**
 
