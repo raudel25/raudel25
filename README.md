@@ -43,7 +43,24 @@
 <br>
 
 
-[![](https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div style="text-align:center">
 
+<img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/0-profile-details.svg" alt="Texto alternativo">
+
+</div>
+<br>
+<div style="display: flex; justify-content: center;" >
+
+<img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/1-repos-per-language.svg" alt="Texto alternativo">
+
+<img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/2-most-commit-language.svg" alt="Texto alternativo">
+
+</div>
+<br>
+<div style="display: flex; justify-content: center;">
+
+<img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/3-stats.svg" alt="Texto alternativo">
+
+<img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/4-productive-time.svg" alt="Texto alternativo">
+
+</div>
