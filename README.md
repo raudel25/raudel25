@@ -2,9 +2,11 @@
 <h2>I live in Camaguey, <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="25" /></h2>
 <h3>A Computer Science student at @matcom (Havana University)</h3>
 
-- 🌱 I’m currently learning **mathematics and programming topics (C++, Competitive Programming, Software Engineering)**
+- 🌱 I am passionate about **mathematics** and **algorithms**.
 
-- 👀 I'm interested in **AI, programming algorithms, software development and mathematics**
+- 👀 I am interested in working in the fields of **software engineering** and **artificial intelligence**.
+
+- ✍️ I also work as a competitive programmer and ICPC contestant.
 
 - 📫 How to reach me **raudel.gmolina@gmail.com**
 
@@ -21,11 +23,19 @@
 <br>
 <br>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py,rust,latex,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,rust&theme=dark" />
+  </a>
+</p>
+
+<h3 align="center">Skills</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,redux,dotnet,mysql,linux,latex,git,github&theme=dark" />
   </a>
 </p>
 
@@ -35,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,django,mysql,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=django,postgres,mongodb,docker&theme=dark" />
   </a>
 </p>
 
