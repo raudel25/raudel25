@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,redux,dotnet,mysql,linux,latex,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,redux,dotnet,mysql,supabase,linux,latex,git,github&theme=dark" />
   </a>
 </p>
 
