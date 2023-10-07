@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Raudel Alejandro Gómez Molina</h1>
 <h2>I live in Camaguey, <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="25" /></h2>
-<h3>A Computer Science student at @matcom (Havana University)</h3>
+<h3>A Software Developer/Computer Science student at @matcom (Havana University)</h3>
 
 - 🌱 I am passionate about **mathematics** and **algorithms**.
 
