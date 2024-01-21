@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,redux,dotnet,mysql,supabase,linux,latex,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,scss,redux,dotnet,mysql,supabase,linux,latex,git,github&theme=dark" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,mongodb,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,django,postgres,mongodb,docker&theme=dark" />
   </a>
 </p>
 
