@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **raudel.gmolina@gmail.com**
   
-- 💼 My Portfolio <a href="https://raudel25-portfolio.vercel.app/">https://raudel25.github.io/my-portfolio/</a>
+- 💼 My Portfolio <a href="https://raudel25-portfolio.vercel.app/">https://raudel25-portfolio.vercel.app/</a>
 
 <br>
 <br>
