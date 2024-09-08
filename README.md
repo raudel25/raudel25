@@ -37,7 +37,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,html,css,scss,redux,dotnet,mysql,postgres,docker,supabase,linux,latex,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,next,flutter,html,css,tailwind,scss,redux&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,mysql,postgres,docker,supabase&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,latex,git,github&theme=dark" />
   </a>
 </p>
 
