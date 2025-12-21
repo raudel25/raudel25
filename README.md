@@ -9,7 +9,6 @@
 - ✍️ I also work as a competitive programmer and ICPC contestant.
 
 - 📫 How to reach me **raudel.gmolina@gmail.com**
-  
 - 💼 My Portfolio <a href="https://raudel25-portfolio.vercel.app">https://raudel25-portfolio.vercel.app</a>
 
 <br>
@@ -66,25 +65,18 @@
 <br>
 <br>
 
-
-<div style="text-align:center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/0-profile-details.svg" alt="Texto alternativo">
 
 </div>
 <br>
-<div style="display: flex; justify-content: center;" >
-
-<img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/1-repos-per-language.svg" alt="Texto alternativo">
-
-<img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/2-most-commit-language.svg" alt="Texto alternativo">
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/4-productive-time.svg" />
 </div>
+
 <br>
-<div style="display: flex; justify-content: center;">
+<br>
 
-<img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/3-stats.svg" alt="Texto alternativo">
-
-<img src="https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/onedark/4-productive-time.svg" alt="Texto alternativo">
-
-</div>
+<img src="https://raw.githubusercontent.com/raudel25/raudel25/output/snake.svg" alt="Snake animation" />
